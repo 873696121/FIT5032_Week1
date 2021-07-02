@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FIT5032_MyCSS", "FIT5032_MyCSS\FIT5032_MyCSS.csproj", "{32AD66D5-BA98-4A50-9884-5BD4857740E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FIT5032_MyCSS.Tests", "FIT5032_MyCSS.Tests\FIT5032_MyCSS.Tests.csproj", "{3C32C60B-B024-4857-AECC-D207187A4E37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32AD66D5-BA98-4A50-9884-5BD4857740E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32AD66D5-BA98-4A50-9884-5BD4857740E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32AD66D5-BA98-4A50-9884-5BD4857740E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32AD66D5-BA98-4A50-9884-5BD4857740E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C32C60B-B024-4857-AECC-D207187A4E37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C32C60B-B024-4857-AECC-D207187A4E37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C32C60B-B024-4857-AECC-D207187A4E37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C32C60B-B024-4857-AECC-D207187A4E37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E289556-75D4-4229-8942-775C101A3AB9}
+	EndGlobalSection
+EndGlobal
